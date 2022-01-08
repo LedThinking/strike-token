@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/github/license/LedThinking/strike-token?style=for-the-badge)
 
 <p align="center">
-  <img src=".git/assets/logo.png" width="200" alt="Strike token logo">
+  <img src="./assets/logo.png" width="200" alt="Strike token logo">
 </p>
 
 <p align="center">
